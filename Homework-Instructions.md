@@ -10,15 +10,15 @@ The user will be prompted for their GitHub username and other information pertai
 
 The README will be populated with the following:
 
-- [ ] At least one badge
+- [x] At least one badge
 
     Sample (See https://shields.io/):
     ```md
     ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
     ```
 
-- [ ] Project title
-- [ ] Description
+- [x] Project title
+- [x] Description
 - [ ] Table of Contents
 
     Sample:
@@ -28,14 +28,15 @@ The README will be populated with the following:
     * [Credits](#credits)
     * [License](#license)
     ```
-- [ ] Installation
-- [ ] Usage
-- [ ] License
-- [ ] Contributing
-- [ ] Tests
-- [ ] Questions
-  - [ ] User GitHub profile picture
-  - [ ] User GitHub email
+- [x] Installation
+- [x] Usage
+- [x] License
+- [x] Contributing
+- [x] Tests
+- [x] Questions
+  This means who to ask about this project
+  - [x] User GitHub profile picture
+  - [x] User GitHub email
 
 Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
 
