@@ -94,11 +94,11 @@ Because this is a CLI App, there will be no need to deploy it to Heroku. This ti
 
 - [x] Repo **MUST** include `package.json` with required dependencies. (Hint: Run `npm init` when you first setup the project before installing any dependencies.)
 
-- [ ] Include screenshots (or a video) of typical user flows through your application. This includes views of the prompts and the responses after their selection.
+- [x] Include screenshots (or a video) of typical user flows through your application. This includes views of the prompts and the responses after their selection.
 
-- [ ] Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
+- [x] Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
 
-- [ ] Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
+- [x] Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
 
 ## Commit Early and Often
 
