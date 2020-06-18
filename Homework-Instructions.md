@@ -19,7 +19,7 @@ The README will be populated with the following:
 
 - [x] Project title
 - [x] Description
-- [ ] Table of Contents
+- [x] Table of Contents
 
     Sample:
     ```md
@@ -58,22 +58,22 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 * Meets [Submission Requirements](#submission-requirements) in following section.
 
-- [ ] Functional application.
+- [x] Functional application.
 
 - [x] GitHub repository with a unique name and a README describing project.
 
 * The generated README includes the following sections: 
-  - [ ] Title
-  - [ ] Description
-  - [ ] Table of Contents
-  - [ ] Installation
-  - [ ] Usage
-  - [ ] License
-  - [ ] Contributing
-  - [ ] Tests
-  - [ ] Questions
+  - [x] Title
+  - [x] Description
+  - [x] Table of Contents
+  - [x] Installation
+  - [x] Usage
+  - [x] License
+  - [x] Contributing
+  - [x] Tests
+  - [x] Questions
 
-- [ ] The generated README includes 1 badge that's specific to the repository.
+- [x] The generated README includes 1 badge that's specific to the repository.
 
 ```
 GIVEN the developer has a GitHub profile and a repository
@@ -88,7 +88,7 @@ THEN a README for the repo is generated
 
 Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.
 
-- [ ] Create a `.gitignore` file and include `node_modules/` and `.DS_Store/`.
+- [x] Create a `.gitignore` file and include `node_modules/` and `.DS_Store/`.
 
 - [x] `node_modules` is not tracked and uploaded to GitHub. (Hint: It is easy if you create your `.gitignore` file before installing dependencies with npm.)
 
